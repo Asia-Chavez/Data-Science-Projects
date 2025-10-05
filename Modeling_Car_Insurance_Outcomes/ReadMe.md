@@ -15,9 +15,9 @@ Insurance companies invest significant time and money into optimizing their pric
 - Recommend a simple, production-ready model based on that feature
 
 # Machine Learning Problem Definition
-Type: Binary Classification
-Goal: Predict if a customer will make a claim (Yes/No) during their policy period
-Target Variable: outcome
+- Type: Binary Classification
+- Goal: Predict if a customer will make a claim (Yes/No) during their policy period
+- Target Variable: outcome
 
 # Methodology
 1. Data Exploration
