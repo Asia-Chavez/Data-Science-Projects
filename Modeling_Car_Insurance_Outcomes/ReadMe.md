@@ -31,7 +31,7 @@ Insurance companies invest significant time and money into optimizing their pric
 - Split data into train and test sets
 
 3. Feature Evaluation
-- Trained multiple single-feature models, each using one column at a time - Logistic Regression, Decision Tree, Random Forest, Support Vector Machine
+- Trained multiple single-feature models, each using one feature at a time - Logistic Regression, Decision Tree, Random Forest, Support Vector Machine
 - Computed accuracy for each model on the test set
 
 4. Model Selection
@@ -41,10 +41,11 @@ Insurance companies invest significant time and money into optimizing their pric
 
 # Results
 - All models showed 'driving_experience' variable to be best single feature for predicting claim outcome
-- LogisticRegression: driving_experience (Accuracy: 0.7560)
-- DecisionTreeClassifier: driving_experience (Accuracy: 0.7616)
-- RandomForestClassifier: driving_experience (Accuracy: 0.7544)
-- Standard Vector Machine: driving_experience (Accuracy: 0.7671)
+- Recommendation: Standard Vector Machine model using 'driving_experience' feature
+  - LogisticRegression: driving_experience (Accuracy: 0.7560)
+  - DecisionTreeClassifier: driving_experience (Accuracy: 0.7616)
+  - RandomForestClassifier: driving_experience (Accuracy: 0.7544)
+  - **Standard Vector Machine: driving_experience (Accuracy: 0.7671)**
 
 #  Deliverables
 - Notebook / Script: Modeling_Car_Insurance_Claims_Outcomes.ipynb / Modeling_Car_Insurance_Claims_Outcomes.py
