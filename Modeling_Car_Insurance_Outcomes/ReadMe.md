@@ -49,3 +49,6 @@ Insurance companies invest significant time and money into optimizing their pric
 
 #  Deliverables
 - Notebook / Script: Modeling_Car_Insurance_Claims_Outcomes.ipynb / Modeling_Car_Insurance_Claims_Outcomes.py
+- Report: Modeling_Car_Insurance_Claims_Outcomes.pptx
+- <img width="787" height="445" alt="image" src="https://github.com/user-attachments/assets/de60982c-170d-40f4-9b19-ca27b519e632" />
+
