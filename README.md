@@ -8,9 +8,9 @@ A collection of independent data science and machine learning projects built dur
 
 | Project | Description | Link |
 |---|-------------|------|
-| **Modeling Car Insurance Outcomes** | Classification experiments to predict insurance claims; includes feature selection, model benchmarking, and diagnostics. | `Modeling_Car_Insurance_Outcomes/` |
-| **Predicting Medical Insurance Charges** | Regression modeling to estimate health insurance costs; includes data cleaning, encoding, evaluation, and validation. | `Predicting_Medical_Charges/` |
-| **Penguin Species Clustering (In Progress)** | Unsupervised learning to cluster penguins based on physical measurements and infer species groups. | `Penguin_Species_Clustering/` |
+| **Modeling Car Insurance Outcomes** | Classification experiments to predict insurance claims; includes feature selection, model benchmarking, and diagnostics. | [Modeling_Car_Insurance_Outcomes](./Modeling_Car_Insurance_Outcomes/) |
+| **Predicting Medical Insurance Charges** | Regression modeling to estimate health insurance costs; includes data cleaning, encoding, evaluation, and validation. | [Predicting_Medical_Charges](./Predicting_Medical_Charges/) |
+| **Penguin Species Clustering (In Progress)** | Unsupervised learning to cluster penguins based on physical measurements and infer species groups. | [Penguin_Species_Clustering](./Penguin_Species_Clustering/) |
 
 ---
 
