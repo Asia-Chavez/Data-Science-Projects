@@ -57,5 +57,7 @@ This project demonstrates my ability to apply machine learning, feature engineer
 
 #  Deliverables
 
-- Notebook / Script: Predicting_Insurance_Charges.ipynb / Predicting_Insurance_Charges.py
+- Notebook / Script: Predicting_Medical_Charges.ipynb / Predicting_Medical_Charges.py
+- Report: Predicting_Medical_Charges.pptx
+
 
