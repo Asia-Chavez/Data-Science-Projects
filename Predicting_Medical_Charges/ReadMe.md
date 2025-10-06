@@ -59,5 +59,8 @@ This project demonstrates my ability to apply machine learning, feature engineer
 
 - Notebook / Script: Predicting_Medical_Charges.ipynb / Predicting_Medical_Charges.py
 - Report: Predicting_Medical_Charges.pptx
+- <img width="983" height="551" alt="image" src="https://github.com/user-attachments/assets/80f56963-dd49-46cc-ad2e-2a682313dad1" />
+
+
 
 
