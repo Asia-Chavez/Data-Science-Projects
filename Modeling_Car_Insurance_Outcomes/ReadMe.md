@@ -1,6 +1,6 @@
 # Car-Insurance-Claim-Prediction-Model
 **Project Type:** Personal Data Science Project<br>
-**Status:** Completed (October 2025)<br>
+**Status:** Completed (September 2025)<br>
 **Skills Demonstrated:** Data Cleaning, Machine Learning, Python<br>
 **Note:** Data and business scenario from DataCamp [https://projects.datacamp.com/projects/1645]
 
