@@ -39,7 +39,7 @@ This project demonstrates my ability to apply machine learning, feature engineer
     - R² Score / Cross-Validation R²
 
 4. Model Selection
-After training on insurance.csv, the final model was applied to validation_dataset.csv to predict medical charges for unseen data.
+- After training on insurance.csv, the final model was applied to validation_dataset.csv to predict medical charges for unseen data.
 
 # Results
 - Gradient Boosting Regressor was best performing model
@@ -58,3 +58,4 @@ After training on insurance.csv, the final model was applied to validation_datas
 #  Deliverables
 
 - Notebook / Script: Predicting_Insurance_Charges.ipynb / Predicting_Insurance_Charges.py
+
