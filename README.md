@@ -1,4 +1,4 @@
-# DataCamp Projects Portfolio  
+# Data Science Projects Portfolio  
 
 A collection of independent data science and machine learning projects built during self-study and practice. Each project folder contains a Jupyter notebook and script with EDA, modeling, results, and discussion.
 
