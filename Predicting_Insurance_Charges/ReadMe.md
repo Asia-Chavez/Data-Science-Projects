@@ -1,4 +1,4 @@
-# Car-Insurance-Claim-Prediction-Model
+# Health-Care-Charges-Prediction-Model
 **Project Type:** Personal Machine  Learning Project<br>
 **Status:** Completed (October 2025)<br>
 **Skills Demonstrated:** Data Cleaning, Machine Learning, Python<br>
@@ -56,4 +56,5 @@ After training on insurance.csv, the final model was applied to validation_datas
 - Sex, region, and children have much lower feature importance
 
 #  Deliverables
+
 - Notebook / Script: Predicting_Insurance_Charges.ipynb / Predicting_Insurance_Charges.py
